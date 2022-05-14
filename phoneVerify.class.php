@@ -60,7 +60,7 @@ class phoneVerify
      * retrun additional information.
      *
      * @param int $number
-     * @return array
+     * @return object
      */
     function verifyNumber($number = false)
     {
@@ -99,7 +99,7 @@ class phoneVerify
      * return the supported country list with additional information.
      *
      * @param null
-     * @return array
+     * @return object
      */
     function getCountryList()
     {
