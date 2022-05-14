@@ -13,7 +13,7 @@ try {
     // Set the phone number
     $phoneVerify->setPhoneNumber(14158586273);
 
-    // Validate the phone number and get the response in json
+    // Validate the phone number and get the response.
     $response = $phoneVerify->verifyNumber();
 
     // return the supported country list
