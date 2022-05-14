@@ -15,6 +15,8 @@ try {
 
     // Validate the phone number and get the response.
     $response = $phoneVerify->verifyNumber();
+    
+    print_r($response);
 
     // return the supported country list
     $phoneVerify->getCountryList();
