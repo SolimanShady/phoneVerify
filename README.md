@@ -10,4 +10,4 @@ Easy php library to validate phone number.
 <br>
 4- open example.php file and change the api key with yours.
 
-That's it, Have a nice Time.
+That's it, Have a nice time :).
